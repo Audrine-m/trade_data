@@ -1,4 +1,6 @@
-[{"id":1,"first_name":"Marna","last_name":"Silcock","email":"msilcock0@bizjournals.com","gender":"Female","ip_address":"38.189.219.211"},
+{
+  "Trading_data" : 
+  [{"id":1,"first_name":"Marna","last_name":"Silcock","email":"msilcock0@bizjournals.com","gender":"Female","ip_address":"38.189.219.211"},
 {"id":2,"first_name":"Aubrie","last_name":"Peare","email":"apeare1@wikispaces.com","gender":"Female","ip_address":"224.36.156.246"},
 {"id":3,"first_name":"Madella","last_name":"Tudge","email":"mtudge2@economist.com","gender":"Female","ip_address":"235.18.75.124"},
 {"id":4,"first_name":"Ulrick","last_name":"Puttnam","email":"uputtnam3@webnode.com","gender":"Non-binary","ip_address":"251.133.28.213"},
@@ -998,3 +1000,4 @@
 {"id":998,"first_name":"Tedman","last_name":"Biddlecombe","email":"tbiddlecomberp@printfriendly.com","gender":"Male","ip_address":"237.121.190.30"},
 {"id":999,"first_name":"Penelope","last_name":"Jerson","email":"pjersonrq@google.co.jp","gender":"Female","ip_address":"31.10.143.32"},
 {"id":1000,"first_name":"Johnnie","last_name":"Fihelly","email":"jfihellyrr@theatlantic.com","gender":"Male","ip_address":"52.229.158.174"}]
+}
